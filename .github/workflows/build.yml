@@ -1,4 +1,4 @@
-name: Build, Export and Publish Next.js App
+name: Build and Publish
 on:
   push:
     branches:
